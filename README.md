@@ -1,11 +1,20 @@
 # deno-crud-restapi
+
+
 https://deno.land/x/denodb < nice for dbs >
+
 https://deno.land/x/superoak
+
 https://deno.land/x/slugify
+
 https://deno.land/x/rxjs
+
 https://deno.land/x/denoenv
+
 https://deno.land/x/moment
+
 https://deno.land/x/deno_notify
+
 https://deno.land/x/denosaur
 
 
