@@ -1,5 +1,8 @@
 # deno-crud-restapi
 
+denon run --allow-net https://raw.githubusercontent.com/chrisloarryn/deno-crud-restapi/master/index.ts
+
+
 `export PATH="/home/msi/.deno/bin:$PATH"`
  
  like nodemon, but for deno
