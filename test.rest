@@ -1,0 +1,31 @@
+
+GET http://localhost:3005/users
+
+
+################################################################
+
+POST http://localhost:3005/users
+Content-Type: application/json
+
+{
+    "name": "hrhr"
+}
+
+################################################################
+
+GET http://localhost:3005/users/f846589b-de6d-4dd0-96ac-e1b7f53e03c8
+
+
+################################################################
+
+DELETE http://localhost:3005/users/f846589b-de6d-4dd0-96ac-e1b7f53e03c8
+
+
+################################################################
+
+PATCH http://localhost:3005/users/f846589b-de6d-4dd0-96ac-e1b7f53e03c8
+Content-Type: application/json
+
+{
+    "name": "Peter J."
+}
