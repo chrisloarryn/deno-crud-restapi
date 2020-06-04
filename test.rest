@@ -8,22 +8,22 @@ POST http://localhost:3005/users
 Content-Type: application/json
 
 {
-    "name": "hrhr"
+    "name": "chrisloarryn"
 }
 
 ################################################################
 
-GET http://localhost:3005/users/f846589b-de6d-4dd0-96ac-e1b7f53e03c8
+GET http://localhost:3005/users/b0500955-91d4-4dce-8ae3-159b877ac686
 
 
 ################################################################
 
-DELETE http://localhost:3005/users/f846589b-de6d-4dd0-96ac-e1b7f53e03c8
+DELETE http://localhost:3005/users/b0500955-91d4-4dce-8ae3-159b877ac686
 
 
 ################################################################
 
-PATCH http://localhost:3005/users/f846589b-de6d-4dd0-96ac-e1b7f53e03c8
+PATCH http://localhost:3005/users/b0500955-91d4-4dce-8ae3-159b877ac686
 Content-Type: application/json
 
 {
